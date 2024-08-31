@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating eff
 -   🛠️ Currently, I'm working on a closed-source **SaaS** project as a _frontend developer_ while honing my abilities in **data structures and algorithms**.
 -   🌍 I’m on the lookout for opportunities to collaborate on **open-source projects** that involve **web development**, **frontend architecture**, and **backend solutions**.
 
----
-
 <table align="center">
   <tr>
     <td align="center">
