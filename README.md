@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shubham
 
-Welcome to my GitHub profile! I'm a passionate software developer focused on creating efficient, scalable, and maintainable code. Here's a bit about me and my work.
+Welcome to my GitHub profile! I'm a passionate developer focused on creating efficient, scalable, and maintainable code. Here's a bit about me and my work.
 
 ---
 
