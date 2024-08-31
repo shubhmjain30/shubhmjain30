@@ -34,10 +34,12 @@
   <tr>
     <td align="center" colspan="2">
       <!-- Visitor Count -->
-      <p>
-        Visitor's Count<br>
-        <img src="https://profile-counter.glitch.me/_shubhmjain30/count.svg" />
-      </p>
+      <div style="text-align: center; padding: 20px;">
+        <p style="font-size: 18px; color: white; margin: 0;">
+          Visitor's Count
+        </p>
+        <img src="https://profile-counter.glitch.me/_shubhmjain30/count.svg" style="margin-top: 10px;"/>
+      </div>
     </td>
   </tr>
 </table>
