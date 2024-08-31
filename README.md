@@ -2,7 +2,7 @@
   <tr>
     <td align="center">
       <!-- Stats -->
-      <a href="#">
+      <a href="#" style="pointer-events: none;">
         <img width='500px' src="https://my-stats-43gk.vercel.app/api?username=shubhmjain30&show_icons=true&theme=onedark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
       </a>
     </td>
@@ -18,7 +18,7 @@
     </td>
     <td align="center">
       <!-- Language -->
-      <a href="#">
+      <a href="#" style="pointer-events: none;">
         <img width='500px' src="https://my-stats-43gk.vercel.app/api/top-langs/?username=shubhmjain30&hide=html,scss,css&langs_count=8&layout=compact&theme=onedark&card_width=150" />
       </a>
     </td>
@@ -26,7 +26,7 @@
   <tr>
     <td align="center" colspan="2">
       <!-- Contributions -->
-      <a href="#">
+      <a href="#" style="pointer-events: none;">
         <img src="contributions.svg" />
       </a>
     </td>
