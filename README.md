@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating eff
     </td>
     <td align="center">
       <!-- Awards -->
-      <img width='500px' src="https://github-profile-trophy.vercel.app/?username=shubhmjain30&theme=onedark&no-frame=true&title=Stars,Followers,Commits,&row=2&column=3"/>
+      <img width='500px' src="https://github-profile-trophy.vercel.app/?username=shubhmjain30&rank=SSS,SS,S,AAA,AA,A,B&title=-Followers&theme=onedark"/>
     </td>
   </tr>
   <tr>
