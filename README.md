@@ -30,15 +30,15 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating eff
       <img width='500px' src="https://github-profile-trophy.vercel.app/?username=shubhmjain30&theme=onedark&no-frame=true&title=Commits,PullRequest,Experience&column=-1&row=1"/>
     </td>
   </tr>
-  <tr>
     <!-- Contributions -->
+  <!-- <tr>
     <td align="center" colspan="2">
         <img src="contributions.svg" />
       </a>
     </td>
-  </tr>
-  <tr>
+  </tr> -->
     <!-- Visitor Count -->
+  <!-- <tr>
     <td align="center" colspan="2">
       <div style="text-align: center; padding: 20px;">
         <p style="font-size: 18px; color: white; margin: 0;">
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating eff
         <img src="https://profile-counter.glitch.me/_shubhmjain30/count.svg" style="margin-top: 10px;"/>
       </div>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
