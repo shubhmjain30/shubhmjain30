@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on creating eff
 ---
 
 -   💻 I specialize in **web development** and am eager to expand into **android development** and **backend development**.
--   🌱 I'm continuously enhancing my skills in **javaScript**, **react.js**, **next.js**, **frontend system design**.
+-   🌱 I'm continuously enhancing my skills in **javascript**, **react.js**, **next.js**, **frontend system design**.
 -   🛠️ Currently, I'm working on a closed-source **SaaS** product as a _frontend developer_ while honing my abilities in **data structures and algorithms**.
 -   🌍 I'm on the lookout for **open-source projects** to dive into—ready to take on anything and everything that comes my way.
 
