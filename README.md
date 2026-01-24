@@ -1,33 +1,31 @@
 # Hi, I’m Shubham 👋
 
-Frontend developer focused on building scalable, production-grade web applications.  
+Frontend developer building scalable, production-grade web applications.
 Currently working on a SaaS product using **React, Next.js, and TypeScript**.
 
 ---
 
 ### What I work with
 - React, Next.js, TypeScript
-- Frontend architecture & performance
-- API-driven UI, scalable component systems
+- Frontend architecture, performance & DX
+- API-driven UI and scalable component systems
 - JavaScript internals & problem solving
 
 ---
 
-### GitHub at a glance
-<p align="center">
-  <img src="https://my-stats-43gk.vercel.app/api?username=shubhmjain30&theme=onedark&hide=issues,contribs&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=shubhmjain30&layout=compact&theme=onedark&hide=html,css,scss" />
-</p>
+### Current focus
+- Designing clean, scalable frontend architectures
+- Improving performance and maintainability in large React apps
+- Deepening understanding of JavaScript internals and system design
 
 ---
 
-### Highlights
-![Trophies](https://github-profile-trophy.vercel.app/?username=shubhmjain30&theme=onedark&no-frame=true&title=Commits,PullRequest,Experience)
+### How I work
+- Prefer clarity over cleverness
+- Optimize for long-term maintainability
+- Think in systems, not just components
+- Strong opinions, loosely held
 
 ---
-
 Building things that scale.  
 Always learning. Always shipping.
