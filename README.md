@@ -21,9 +21,9 @@ with a focus on performance, maintainability, and developer experience.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat&logo=node.js&logoColor=339933)
-
-### At a glance
-<img src="https://my-stats-43gk.vercel.app/api?username=shubhmjain30&show_icons=true&hide_border=true&hide=contribs,issues&rank_icon=github&include_all_commits=true&theme=transparent&title_color=ffffff&text_color=adbac7&icon_color=539bf5" height="150" alt="stats" />
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat&logo=mongodb&logoColor=47A248)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-20232A?style=flat&logo=tailwindcss&logoColor=38BDF8)
 
 ---
 
