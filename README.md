@@ -2,7 +2,7 @@
 
 **Software Engineer** · Building Scalable SaaS Products
 
-[Portfolio](https://shubhm.in/) · [LinkedIn](https://www.linkedin.com/in/shubhmjain/) · [Twitter](https://x.com/shubhmjain30)
+[Portfolio](https://shubhm.in/) · [LinkedIn](https://www.linkedin.com/in/shubhmjain/) · [Twitter](https://x.com/shubhmj30)
 
 ---
 
